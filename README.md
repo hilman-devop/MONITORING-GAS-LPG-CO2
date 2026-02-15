@@ -1,6 +1,6 @@
 # Sistem Monitoring Gas LPG & CO2
 
-![Project Banner](assets/image/.)  
+![Project Banner](image/img2.jpeg)  
 *Gambar ilustrasi sistem (ganti dengan foto asli perangkat jika ada)*
 
 ## Deskripsi Proyek
